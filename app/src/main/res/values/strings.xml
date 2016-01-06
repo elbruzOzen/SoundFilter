@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sound Filter</string>
+
+    <string name="status">Filter Type: 0</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_filter_text">No Filter</string>
+    <string name="lpf_text">LPF</string>
+    <string name="hpf_text">HPF</string>
+    <string name="bpf_text">BPF</string>
+    <string name="bsf_text">BSF</string>
+    <string name="cut_off_label_text">Cutoff Freq:</string>
+    <string name="center_label_text">Center Freq:</string>
+    <string name="degree_label_text">Filt Degree:</string>
+    <string name="button_text">Ok</string>
+
+</resources>
